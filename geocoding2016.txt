@@ -1,0 +1,15 @@
+Notes on Geocoding Actions 2016
+Created 06/15/2016 
+-------------------------------
+
+06/15/2016
+
+1. Accountants 
+	-accountants_home(geo) original match 71% (44 of 62)
+		Unmatched:
+			Tomkins Floyd W. h. 199 23d (typo but not listed east or west)
+			Townsend H. P. h. 261 Seventh (doesn't specify 7th ave/street, also need to check if is missing 
+			basemap
+*******ENDED AT BRUSH JESSE 20 BARROW in unmatched - sort Arc_Single ASCENDING
+
+
