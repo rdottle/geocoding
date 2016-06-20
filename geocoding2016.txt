@@ -8,8 +8,23 @@ Created 06/15/2016
 	-accountants_home(geo) original match 71% (44 of 62)
 		Unmatched:
 			Tomkins Floyd W. h. 199 23d (typo but not listed east or west)
-			Townsend H. P. h. 261 Seventh (doesn't specify 7th ave/street, also need to check if is missing 
-			basemap
-*******ENDED AT BRUSH JESSE 20 BARROW in unmatched - sort Arc_Single ASCENDING
+			Townsend H. P. h. 261 Seventh #missingbasemap
+			Palmer William h. 485 Grand St located at East Broadway - Grand St Square, no 485.
+		Manually matched: 			
+			Mumford Gurdon h. 67 East 30th, #frontback
+			Binge Julius h. 88 Grand #frontback
+			Brush Jesse, 20 Barrow - 20 Barrow == 94 Barrow on 1857 Map, no 20 on 1854
+			Donaldson John h. 121 Greene, #frontback
+			Despard C. J. h. 23 Hammond #frontback
+			Richard Cornelius h. 72 Lexington Ave #frontback
+			Westervelt William h. 123 Perry St #frontback
+			Landon Edwin R . 116 Second St - #spelling
+			Channing Roscoe, h. 34th St Marks #streetname
+			Davis Greenleaf h. 50 Vandam #frontback
+			Withington Isaac 226 Varick #frontback
+			Gladding William h. 240 W 13th #frontback
+			Ackerman George h. 193 W 15th #frontback 
 
-
+	-review of matched accountants - current match 59/62 95%
+			
+		
