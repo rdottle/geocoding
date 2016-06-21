@@ -2,14 +2,24 @@ Notes on Geocoding Actions 2016
 Created 06/15/2016 
 -------------------------------
 
+
+#hyphen
+#spelling
+#mislabeledbf
+#missingbasemap
+#eastwest
+#frontback
+#nosuchaddress 
+#streetname
+
 06/15/2016
 
 1. Accountants 
 	-accountants_home(geo) original match 71% (44 of 62)
 		Unmatched:
-			Tomkins Floyd W. h. 199 23d (typo but not listed east or west)
+			Tomkins Floyd W. h. 199 23d (typo but not listed east or west) #eastwest
 			Townsend H. P. h. 261 Seventh #missingbasemap
-			Palmer William h. 485 Grand St located at East Broadway - Grand St Square, no 485.
+			Palmer William h. 485 Grand St located at East Broadway - Grand St Square, no 485. #nosuchaddress
 		Manually matched: 			
 			Mumford Gurdon h. 67 East 30th, #frontback
 			Binge Julius h. 88 Grand #frontback
@@ -27,4 +37,24 @@ Created 06/15/2016
 
 	-review of matched accountants - current match 59/62 95%
 			
-		
+	-accountants_bus(geo) initial match 67% 113 of 169
+		Unmatched: 
+			Braisted William b. 9 Astor House #nosuchaddress				
+			Cotton William Claremont Ave #nosuchaddress
+		Manually Matched:
+			Jenner William, b. 57 4th Street #mislabeledbf	
+			Whitehead James b. 10 Allen #mislabeledbf
+			Fulton William b. 14 Beaver Street #hyphen
+			Carl F. August b 27 Bowery #frontback
+			Barker Israel b. 40 Broad #hyphen
+			Marsh Christopher b. 348 Broadway #hyphen
+			Crowell Albert b. 35 Broadway #mislabeledbf
+			Farmer William b. 37 Broadway #mislabeledbf
+			Story James b. 379 Broaadway #hyphen
+			Brush Jesse b. 56 Broadway #hyphen
+			Everitt George 174 Centre #frontback
+			Dion D. b. 5 Depau Row #mislabeledbf
+			Donaldson John b. 5 Dey St #hyphen
+			Hearn William b. 95 E 17th #frontback
+			Major Theodore, b. 71 Eldridge #frontback
+******************STOPPED AT CURRIER JOSEPH SORT UNMATCHED ARCSINGLE******************
