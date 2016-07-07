@@ -41,6 +41,11 @@ Created 06/15/2016
 		Unmatched: 
 			Braisted William b. 9 Astor House #nosuchaddress				
 			Cotton William Claremont Ave #nosuchaddress
+			Currier Joseph, 18 Exchange Pl #nosuchaddress
+			Reilly John J. Hall of Records 2 #nosuchaddress
+			Gill William 2 Hanover buildings #nosuchaddress
+			Robertson Henry Rotunda Park #nosuchaddress
+
 		Manually Matched:
 			Jenner William, b. 57 4th Street #mislabeledbf	
 			Whitehead James b. 10 Allen #mislabeledbf
@@ -57,4 +62,28 @@ Created 06/15/2016
 			Donaldson John b. 5 Dey St #hyphen
 			Hearn William b. 95 E 17th #frontback
 			Major Theodore, b. 71 Eldridge #frontback
-******************STOPPED AT CURRIER JOSEPH SORT UNMATCHED ARCSINGLE******************
+			Barrow Henry, 12 1/2 Front **************
+			Coolidge Philip 134 Front #hyphen
+			Lewis John 51 Front #mislabeledbf (not labeled on map)
+			Wicker Vw 6 Front #spelling
+			Wild Thomas, Greenwich 706 #frontback
+			Hughson William 820 Greenwich #frontback
+			Leet Allen 78 Jane #frontback
+			Withington Isaac 4 Liberty Pl #hyphen
+			Frost Henry 100 Liberty #mislabeledbf
+			Duguid Thomas 52 Liberty #mislabeledbf
+			Meshurul George 9 Merchants Exchange #mislabeledbf
+			Edwards John 200 Mulberry #fronback #hyphen
+			Hedge George 112 Nassau #hyphen
+			Tomkins Floyd 142 Nassau #hyphen
+			Hiern Philip 20 Old Slip #mislabeledbf
+			Westervelt Adrian 118 Pearl #mislabeledbf
+			Bluher Henry 54 South #hyphen
+			Steinberger James 19 Suffolk #frontback
+			Leake Hewlett 100 Sullivan #frontback
+			Craig Charles 82 Vandam #frontback
+			Danforth Delaplaine 1 Wall Street #mislabeledbf
+			Creighton Henry 120 Wall #mislabeledbf
+			
+			 			
+******************STOPPED AT NODYNE RICHARD UNMATCHED ARCSINGLE ASCENDING******************
