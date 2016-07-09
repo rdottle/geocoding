@@ -45,7 +45,9 @@ Created 06/15/2016
 			Reilly John J. Hall of Records 2 #nosuchaddress
 			Gill William 2 Hanover buildings #nosuchaddress
 			Robertson Henry Rotunda Park #nosuchaddress
-
+			Windsor Francis, 192 W 15th St #missingbasemap
+			Barber Thomas 268 West St #nosuchaddress ***same as home typo?
+			Frost Henry JR 100 Liberty and 105 Cedar #duplicate
 		Manually Matched:
 			Jenner William, b. 57 4th Street #mislabeledbf	
 			Whitehead James b. 10 Allen #mislabeledbf
@@ -84,6 +86,17 @@ Created 06/15/2016
 			Craig Charles 82 Vandam #frontback
 			Danforth Delaplaine 1 Wall Street #mislabeledbf
 			Creighton Henry 120 Wall #mislabeledbf
-			
+			Worth Thos 52 Wall #mislabeledbf
+			Entz John 52 Wall #mislabeleddf
+			Young Henry 74 Wall #hyphen
+			Ackerman George 91 Wall #hyphen	
+			Edmonds Robert 8 Watts #frontback
+			Baily John 92 W 16th #frontback
+			Brown George 235 1/2 W 19th St #halfaddress
+			Clark John 82 William #mislabeledbf
+			Underhill John Upton 112 Broadway #hyphen
+			Stephen William 112 Broadway #hyphen
+			Westervelt Adrian 118 Pearl, #mislabeledbf
+
 			 			
 ******************STOPPED AT NODYNE RICHARD UNMATCHED ARCSINGLE ASCENDING******************
