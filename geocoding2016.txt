@@ -99,4 +99,51 @@ Created 06/15/2016
 			Westervelt Adrian 118 Pearl, #mislabeledbf
 
 			 			
-******************STOPPED AT NODYNE RICHARD UNMATCHED ARCSINGLE ASCENDING******************
+
+3. Booksellers Home Addressed 
+	-original match 92/132 70% 
+		-unmatched addresses:
+			Burgess Daniel and Co 36 Cranberry St #brooklyn
+ 			Rhoades Edward 133 Greenwich Ave #nosuchaddress (Jackson Sq Park)
+			Scribner Edward 28 Irving Pl #duplicate
+			Smith Cornelius 53 Johnson #statenisland
+			Rollo Samuel 216 Laight St #nosuchaddress 
+			Voorhis William 54 Vestry #missingbasemap/bf
+			Scribner Charles #duplicate
+			Allen John 12 W 38th #missingbasemap
+			Allen K. 12 W 38th St #duplicate
+			Hois Aiken 236 W 45th #missingbasemap
+		-manually matched addresses: 
+			Demarest W H Avenu 8th 135 #spelling
+			Swords James 14th Ninth St #frontback
+			Griffin Stephen 38 Amos St #frontback 
+			Turney Samuel 60 Amos St #frontback 
+			Lockwood Roe & Son 104 Bleecker #frontback
+			Mondon Peter 122 Leonard #mislabeledbf
+			Miller George 645 Broadway #hyphen
+			Evan Charles 1 Carroll Place #mislabeledbf (ALIAS STREET NAME)
+			Martin Alfred 22 Catherine #twosuchaddresses (two 22 Catherine listed, used one from directory)
+ 			French Eli 26 Cottage Pl #mislabeledbf (ALIAS Hancock St)
+			Raynor Samuel E 11th St 52 #mislabeledbf (labeled as 3rd avenue)
+			Burnton James 29 E 25th St #frontback 
+			Dickerson James 599 Houston #mislabeledbf (also mislabeled map layer)
+			Scribner Edward 28 Irving Pl #frontback #spelling
+			Ronalds Thomas 71 Laurens #frontback 
+			Lamport Hiram 84 Macdougal #frontback 
+			Burnton Richard 189 Mott St #frontback 
+			Ward John 59 Mulberry #frontback 
+			Brace Thomas 56 St Marks Pl #mislabeledbf #alias
+			Lockwood George 179 Thompson #frontback 
+			Scribner Charles 26 W 11th St (East 11th) #mislabeledbf
+			Doane William 289 W 21st #frontback 
+			Howard Geo 128 W 23rd #mislabeledbf
+			Duffy Hugh 342 W 29th #frontback 
+			Goodenough Edward 213 W 30th St #frontback 
+			Gibbens Robert 177 W 35th St #mislabeledbf *****placed marker on house next to
+			Edward 113 Ave 2 #frontback 
+
+*********************STOPPED AT ALL UNMATCHED***************************************************
+
+			
+			
+			
