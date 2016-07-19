@@ -157,4 +157,17 @@ Created 06/15/2016
 
 			
 			
+4. Booksellers Business Addresses - originally matched 195 (63%) 116 unmatched (37%) 
+
+	unmatched:
+			Demarest W H Bookstore 135 Av 8 #duplicate
+			Demarest & Co Bookstore 135 Av 8 #duplicate
+			Toomey Jeremiah 165 Av A #duplicate
+			Toomey & Roache 165 Av A #duplicate 
+			Francis Charles & Co 252 Broadway #duplicate
+			Carter Robert Brothers 285 Broadway #duplicate 
 			
+	manually matched: 
+			
+
+******LEVISON JOHN 341 BROADWAY******				
