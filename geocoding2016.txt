@@ -109,10 +109,18 @@ Created 06/15/2016
 			Smith Cornelius 53 Johnson #statenisland
 			Rollo Samuel 216 Laight St #nosuchaddress 
 			Voorhis William 54 Vestry #missingbasemap/bf
-			Scribner Charles #duplicate
+			Scribner Charles26 w 11th st #duplicate
 			Allen John 12 W 38th #missingbasemap
 			Allen K. 12 W 38th St #duplicate
 			Hois Aiken 236 W 45th #missingbasemap
+			Marsh Richard 40 Ave 6 #duplicate
+			Banks David jr 131 Bleecker #duplicate
+			Banks David law books 131 Bleecker #duplicate
+			Bunce Seymour 181 E 15th St #duplicate
+			Solomon & Co East Broadway 18 #duplicate
+			Beam Siegmund 35 Henry St #duplicate
+		***************************Appleton Daniel 157 Macdougal St #duplicate
+		
 		-manually matched addresses: 
 			Demarest W H Avenu 8th 135 #spelling
 			Swords James 14th Ninth St #frontback
@@ -141,7 +149,10 @@ Created 06/15/2016
 			Goodenough Edward 213 W 30th St #frontback 
 			Gibbens Robert 177 W 35th St #mislabeledbf *****placed marker on house next to
 			Edward 113 Ave 2 #frontback 
-
+			Hayley Clayton 361 Av2 #mislabeledbf #pickfrommap
+			Maher Martin 1 Sixth #frontback
+			Richardson Philo 153 Ave 8 #frontback
+			Turney Samuel 60 Amos
 *********************STOPPED AT ALL UNMATCHED***************************************************
 
 			
