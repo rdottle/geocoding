@@ -166,8 +166,32 @@ Created 06/15/2016
 			Toomey & Roache 165 Av A #duplicate 
 			Francis Charles & Co 252 Broadway #duplicate
 			Carter Robert Brothers 285 Broadway #duplicate 
-			
+			Appleton Daniel 346-348 Broadway #duplicate
+			Appleton Daniel 346-348 Broadway #duplicate 
+			Lockwood Roe & Son 411 Broadway #duplicate 
+			Stanford & Swords 637 Broadway #duplicate 
+			Evans and Dickerson 697 Broadway #duplicate
+			Evans Charles 697 Broadway #duplicate 
+			Garrigue Rudolph 763 Broadway #duplicate 
+			Turney Samuel 77 Chatham 60 Amos #duplicate
+			Woodford David R 4 Cortlandt #duplicate 
+			Allen & Leavitt 27 Dey #duplicate 
+			Leavitt & Aleen 27 Dey #duplicate 
+			Brinkerhoff & Co 103 Fulton #duplicate
+			Separd & Co 152 Fulton #duplicate 
+			Garrigue & Christern 178 Fulton #duplicate 
+			Martin Samuel 314 Grand #duplicate 
+			Martin S 314 Grand St #duplicate
+			Clarry and Brother 427 Grand #duplicate
+			Kiggins Kellogg 88 Johns #duplicate
+			Gunther Chas F 14 N Williams #duplicate
+			Mason Brothers 23 Park Row #duplicate 
+			Mason Daniel G 23 Park Row #duplicate 
+			Clark Austin Smith 3 Park Row #duplicate 
+			Collins Bowne Co Account 174-176 Pearl #duplicate
+							
 	manually matched: 
-			
+			Pattenheimer William 20 Twelfth ******
+
 
 ******LEVISON JOHN 341 BROADWAY******				
