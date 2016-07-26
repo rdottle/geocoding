@@ -160,8 +160,7 @@ Created 06/15/2016
 4. Booksellers Business Addresses - originally matched 195 (63%) 116 unmatched (37%) 
 
 	unmatched:
-			Demarest W H Bookstore 135 Av 8 #duplicate
-			Demarest & Co Bookstore 135 Av 8 #duplicate
+
 			Toomey Jeremiah 165 Av A #duplicate
 			Toomey & Roache 165 Av A #duplicate 
 			Francis Charles & Co 252 Broadway #duplicate
@@ -189,9 +188,15 @@ Created 06/15/2016
 			Mason Daniel G 23 Park Row #duplicate 
 			Clark Austin Smith 3 Park Row #duplicate 
 			Collins Bowne Co Account 174-176 Pearl #duplicate
-							
+			Gibbens Robert 608 Av 8th #nosuchaddress
+			Barton David 520 Av 9 #nosuchaddress
+	
 	manually matched: 
 			Pattenheimer William 20 Twelfth ******
+			Rawdon William 181 Av 1 #frontback 
+			Loeffel Philip 580 Fourth #frontback
+			Pratt George 26 Amity #frontback	
 
+						
 
 ******LEVISON JOHN 341 BROADWAY******				
