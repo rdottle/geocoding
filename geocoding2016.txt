@@ -160,11 +160,7 @@ Created 06/15/2016
 4. Booksellers Business Addresses - originally matched 195 (63%) 116 unmatched (37%) 
 
 	unmatched:
-
-			Toomey Jeremiah 165 Av A #duplicate
-			Toomey & Roache 165 Av A #duplicate 
-			Francis Charles & Co 252 Broadway #duplicate
-			Carter Robert Brothers 285 Broadway #duplicate 
+ 
 			Appleton Daniel 346-348 Broadway #duplicate
 			Appleton Daniel 346-348 Broadway #duplicate 
 			Lockwood Roe & Son 411 Broadway #duplicate 
@@ -190,13 +186,32 @@ Created 06/15/2016
 			Collins Bowne Co Account 174-176 Pearl #duplicate
 			Gibbens Robert 608 Av 8th #nosuchaddress
 			Barton David 520 Av 9 #nosuchaddress
-	
+			French Eli 12 Astor Pl #IDK
+			Schroeder William Av A #nosuchaddress
+			Naufar John 165 Av C #missingbasemap
 	manually matched: 
 			Pattenheimer William 20 Twelfth ******
 			Rawdon William 181 Av 1 #frontback 
 			Loeffel Philip 580 Fourth #frontback
 			Pratt George 26 Amity #frontback	
-
+			Sauer Leonard 296 Sixth #twosuchaddresses
+			Meinhard John 79 Av A #mislabeledbf
+			Woglom William 78 barclay #mislabeledbf
+			Cornwell William 91 Beaver #mislabeledbf
+			VanBeuren Gerardus 223 Bleecker #mislabeledbf
+			Vale Gilbert 1 Bowery #hyphen
+			Heather George 177 Bowery #frontback
+			Burnton Richard 274 Bowery #hyphen
+			Richardson William 73 Bowery #frontback
+			Raynor Hiram 76 Bowery #frontback
+			Raynor Samuel 76 Broadway #frontback
+			Blanchard Rufus 195 Broadway #hyphen
+			Ranney Adolphus 195 Broadway #hyphen
+			Stringer James 222 Broadway #mislabeledbf
+			Stringer Townsend 222 Broadway #mislabeledbf
+			Townsend William 222 Broadway #mislabeledbf
+			Westermann Bernhard 290 Broadway #mislabeledbf
+						
 						
 
 ******LEVISON JOHN 341 BROADWAY******				
