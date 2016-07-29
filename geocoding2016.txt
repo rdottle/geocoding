@@ -182,13 +182,15 @@ Created 06/15/2016
 			Gunther Chas F 14 N Williams #duplicate
 			Mason Brothers 23 Park Row #duplicate 
 			Mason Daniel G 23 Park Row #duplicate 
-			Clark Austin Smith 3 Park Row #duplicate 
 			Collins Bowne Co Account 174-176 Pearl #duplicate
 			Gibbens Robert 608 Av 8th #nosuchaddress
 			Barton David 520 Av 9 #nosuchaddress
 			French Eli 12 Astor Pl #IDK
 			Schroeder William Av A #nosuchaddress
 			Naufar John 165 Av C #missingbasemap
+			Gorman John 1 City Hall #IDK RIGHT NOW
+	
+
 	manually matched: 
 			Pattenheimer William 20 Twelfth ******
 			Rawdon William 181 Av 1 #frontback 
@@ -211,7 +213,34 @@ Created 06/15/2016
 			Stringer Townsend 222 Broadway #mislabeledbf
 			Townsend William 222 Broadway #mislabeledbf
 			Westermann Bernhard 290 Broadway #mislabeledbf
-						
-						
-
+			Clark Austin Smith 3 Park Row #twoaddress			
+			Townsend William 222 Broadway #mislabeledbf			
+			Balliere H 290 Broadway #hyphen
+			Bernhard Paul 290 Broadway #hyphen
+			Westermann B and Co 290 Broadway #hyphen
+			Flandin Pierre 293 Broadway #hyphen
+			Appleton Daniel 346 Broadway #hyphen
+			Appleton Daniel 246 and 348 Broadway #hyphen
+			Cozans Michael T 534 Broadway #hyphen
+			Williams Edward 614 Broadway #frontback
+			Miller Humphrey 645 Broadway #hyphen
+			Miller George 645 Broadway #hyphen
+			Evns & Dickerson 697 Broadway #hyphen 
+			Garrigue Rudolph 763 Broadway #hyphen 
+			Roe Charles 905 Broadway #mislabeledbf
+			Martin Samuel 314 Grand St and Catharine #twoaddress
+			Martin A 22 Catharine #twoaddress
+			Leyser Edward 204 Chatham and 30 Cortlandt #twoaddress
+			Solomon and Co 30 Cortlandt Street #twoaddress
+			Beam Siegmund 30 Cortlandt Street #twoaddress
+			Bredford George 65 Chatham #mislabeledbf
+			Price Joseph 65 Chatham #mislabeledbf
+			Bredford & Rice 65 Chatham Street #mislabeledbf
+			Fisher Abraham 74 Chathamm #frontback 
+			Bunce WJ 74 Chatham #frontback 
+			Fisher James & Abraham 74 Chatham #frontback 
+			Fisher & Brother 74 Chatham #frontback 
+			Parsells William 111 Chrystie #frontback 
+			Roberts John 135 Chrystie #frontback 
+			Schleisinger 72 Delancey #frontback 		
 ******LEVISON JOHN 341 BROADWAY******				
