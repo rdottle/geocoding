@@ -167,16 +167,11 @@ Created 06/15/2016
 			Stanford & Swords 637 Broadway #duplicate 
 			Evans and Dickerson 697 Broadway #duplicate
 			Evans Charles 697 Broadway #duplicate 
-			Garrigue Rudolph 763 Broadway #duplicate 
 			Turney Samuel 77 Chatham 60 Amos #duplicate
 			Woodford David R 4 Cortlandt #duplicate 
 			Allen & Leavitt 27 Dey #duplicate 
 			Leavitt & Aleen 27 Dey #duplicate 
-			Brinkerhoff & Co 103 Fulton #duplicate
-			Separd & Co 152 Fulton #duplicate 
 			Garrigue & Christern 178 Fulton #duplicate 
-			Martin Samuel 314 Grand #duplicate 
-			Martin S 314 Grand St #duplicate
 			Clarry and Brother 427 Grand #duplicate
 			Kiggins Kellogg 88 Johns #duplicate
 			Gunther Chas F 14 N Williams #duplicate
@@ -189,7 +184,8 @@ Created 06/15/2016
 			Schroeder William Av A #nosuchaddress
 			Naufar John 165 Av C #missingbasemap
 			Gorman John 1 City Hall #IDK RIGHT NOW
-	
+			Peck Peter 4 Everett House #IDK
+			
 
 	manually matched: 
 			Pattenheimer William 20 Twelfth ******
@@ -242,5 +238,15 @@ Created 06/15/2016
 			Fisher & Brother 74 Chatham #frontback 
 			Parsells William 111 Chrystie #frontback 
 			Roberts John 135 Chrystie #frontback 
-			Schleisinger 72 Delancey #frontback 		
+			Schleisinger 72 Delancey #frontback
+			Ormsby Thomas 122 1/2 Fulton #hyphen
+			Bradburn John 124 Fulton #hyphen			
+			Young Robert T 140 Fulton #hyphen
+			Cook Henry 50 1/2 Fulton #hyphen
+			Cannon John 49 Gold St #hyphen
+			Mann George 65 Gold St #hyphen		
+			Hayley Clayton 237 Grand St #mislabeledbf
+			Kavanagh Amelian 408 1/2 Grand #half
+			Tibbits James 432 Grand #frontback 
+			 		
 ******LEVISON JOHN 341 BROADWAY******				
