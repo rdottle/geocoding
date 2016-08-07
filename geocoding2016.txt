@@ -173,11 +173,6 @@ Created 06/15/2016
 			Leavitt & Aleen 27 Dey #duplicate 
 			Garrigue & Christern 178 Fulton #duplicate 
 			Clarry and Brother 427 Grand #duplicate
-			Kiggins Kellogg 88 Johns #duplicate
-			Gunther Chas F 14 N Williams #duplicate
-			Mason Brothers 23 Park Row #duplicate 
-			Mason Daniel G 23 Park Row #duplicate 
-			Collins Bowne Co Account 174-176 Pearl #duplicate
 			Gibbens Robert 608 Av 8th #nosuchaddress
 			Barton David 520 Av 9 #nosuchaddress
 			French Eli 12 Astor Pl #IDK
@@ -185,8 +180,11 @@ Created 06/15/2016
 			Naufar John 165 Av C #missingbasemap
 			Gorman John 1 City Hall #IDK RIGHT NOW
 			Peck Peter 4 Everett House #IDK
+			Rhoades Edward 133 Greenwich Ave #idk 
+			Scribner Charles 36 Park Row and 145 nassau #nosuchaddress #church
+			Scribner Edward 36 Park Row and 145 Nassau #nosuchaddress
+			Ward John 25 North william Street #missingbasemap
 			
-
 	manually matched: 
 			Pattenheimer William 20 Twelfth ******
 			Rawdon William 181 Av 1 #frontback 
@@ -248,5 +246,35 @@ Created 06/15/2016
 			Hayley Clayton 237 Grand St #mislabeledbf
 			Kavanagh Amelian 408 1/2 Grand #half
 			Tibbits James 432 Grand #frontback 
-			 		
-******LEVISON JOHN 341 BROADWAY******				
+			Meyer Lewis 333 Houston St #mislabeledbf
+			Pramelee Jairus 65 Houston St #mislabeledbf
+			Mechin & Brault 82 Leonard St #frontback 
+ 			Pars William 27 Merchant Exchange #exchange
+			Diossy John J 1 Nassau #mislabeledbf
+			Ohara John 110 Nassau #hyphen
+			Blakeman B  115 Nassau #hyphen
+			Law Henry W Books 115 Nassau #hyphen
+			Sheldon Smith 115 Nassau #hyphen
+			Shledon Lamport and Co 115 Nassau #hyphen
+			Lamport Hiram 115 Nassau #hyphen
+			Hollingsworth 115 Nassau #hyphen 
+			Cozans Philip 114-116 Nassau #hyphen
+			Sturgks John 128 Nassau #hyphen
+			Bunce George 134 Nassau #hyphen
+			Bunce Seymour 134 Nassau #hyphen
+			Bunce and Brother 126-136 Nassau #hyphen
+			Banks Charles 144 Nassau #mislabeledbf
+			Banks, Gould and Co 144 Nassau #mislabeledbf
+			Banks David 144 Nassau #mislabeledbf
+			Banks David jr 144 Nassau #mislabeledbf
+			Voorhies John 20 Nassau #mislabeledbf
+			Voorhies William 20 Nassau #mislabeledbf
+			Willmer and Smith 42 Nassau #hyphen
+			Bockell Auguste 62 Norfolk #frontback 
+			Mann George C 133 Pearl St #mislabeledbf
+			Marsh Richard 374 Pearl #mislabeledbf
+			Mickler Gabriel 96 Ridge #frontback
+			Klapper 66 Suffolk #frontback
+			Glenn James 42 Thomas #frontback 
+			 
+******LEVISON JOHN 341 BROADWAY******			
