@@ -105,7 +105,6 @@ Created 06/15/2016
 		-unmatched addresses:
 			Burgess Daniel and Co 36 Cranberry St #brooklyn
  			Rhoades Edward 133 Greenwich Ave #nosuchaddress (Jackson Sq Park)
-			Scribner Edward 28 Irving Pl #duplicate
 			Smith Cornelius 53 Johnson #statenisland
 			Rollo Samuel 216 Laight St #nosuchaddress 
 			Voorhis William 54 Vestry #missingbasemap/bf
@@ -113,14 +112,9 @@ Created 06/15/2016
 			Allen John 12 W 38th #missingbasemap
 			Allen K. 12 W 38th St #duplicate
 			Hois Aiken 236 W 45th #missingbasemap
-			Marsh Richard 40 Ave 6 #duplicate
-			Banks David jr 131 Bleecker #duplicate
-			Banks David law books 131 Bleecker #duplicate
-			Bunce Seymour 181 E 15th St #duplicate
 			Solomon & Co East Broadway 18 #duplicate
 			Beam Siegmund 35 Henry St #duplicate
-		***************************Appleton Daniel 157 Macdougal St #duplicate
-		
+			
 		-manually matched addresses: 
 			Demarest W H Avenu 8th 135 #spelling
 			Swords James 14th Ninth St #frontback
@@ -153,36 +147,19 @@ Created 06/15/2016
 			Maher Martin 1 Sixth #frontback
 			Richardson Philo 153 Ave 8 #frontback
 			Turney Samuel 60 Amos
-*********************STOPPED AT ALL UNMATCHED***************************************************
-
 			
 			
 4. Booksellers Business Addresses - originally matched 195 (63%) 116 unmatched (37%) 
 
 	unmatched:
- 
-			Appleton Daniel 346-348 Broadway #duplicate
-			Appleton Daniel 346-348 Broadway #duplicate 
-			Lockwood Roe & Son 411 Broadway #duplicate 
-			Stanford & Swords 637 Broadway #duplicate 
-			Evans and Dickerson 697 Broadway #duplicate
-			Evans Charles 697 Broadway #duplicate 
-			Turney Samuel 77 Chatham 60 Amos #duplicate
-			Woodford David R 4 Cortlandt #duplicate 
-			Allen & Leavitt 27 Dey #duplicate 
-			Leavitt & Aleen 27 Dey #duplicate 
-			Garrigue & Christern 178 Fulton #duplicate 
-			Clarry and Brother 427 Grand #duplicate
+ 			Elton Robert 3 Tryon Row #idk
+			1 Vesey Street #idk
 			Gibbens Robert 608 Av 8th #nosuchaddress
 			Barton David 520 Av 9 #nosuchaddress
 			French Eli 12 Astor Pl #IDK
 			Schroeder William Av A #nosuchaddress
 			Naufar John 165 Av C #missingbasemap
-			Gorman John 1 City Hall #IDK RIGHT NOW
-			Peck Peter 4 Everett House #IDK
-			Rhoades Edward 133 Greenwich Ave #idk 
-			Scribner Charles 36 Park Row and 145 nassau #nosuchaddress #church
-			Scribner Edward 36 Park Row and 145 Nassau #nosuchaddress
+			Peck Peter 4 Everett House #Idk
 			Ward John 25 North william Street #missingbasemap
 			
 	manually matched: 
@@ -276,5 +253,6 @@ Created 06/15/2016
 			Mickler Gabriel 96 Ridge #frontback
 			Klapper 66 Suffolk #frontback
 			Glenn James 42 Thomas #frontback 
-			 
-******LEVISON JOHN 341 BROADWAY******			
+			Edward H 156 William St #mislabeledbf
+						 
+			
