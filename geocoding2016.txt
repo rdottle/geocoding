@@ -256,3 +256,85 @@ Created 06/15/2016
 			Edward H 156 William St #mislabeledbf
 						 
 			
+4. Druggists Home Addresses - originally matched 55% (107) and 45% unmatched (86)
+	
+	-unmatched:
+		Buchbinder Bernhard 605 Ave 4 #missingbasemap
+		Schoening Eugene 700 Ave 8 #missingbasemap
+		Schoening Eugene 700 Ave 8 #missingbasemap
+		Leggett Joseph 120 Ave C #missingbasemap
+		Thompson William 57 Baltic #Brooklyn
+		Thomas Gabriel 23 Butler #Brooklyn
+		Wheeler George 451 Divison #nosuchaddress
+		Radway Geo 689 Hudson St #missingbasemap
+		Curtis Simeon 132 W 24th St #missingbasemap
+		
+	-manually matched:
+		Radway John 76 Jane #frontback 
+		Neegard William 170 lexington ave #frontback  
+		Carle John jr 280 12th St #missingbf #eastwest
+		Leeds Gurdon 137 Ave A #frontback 
+		Wheeler Walter 54 Fourth St and 42 Bank #mislabeledbf
+		Rudolphy John 44 1/2 Av 6 #halfaddress
+		Delluc Marcellin 221 Ninth #frontback
+		Delluc Marcellin 221 Ninth #frontback 
+		Delluc Francis 221 Ninth #frontback
+		Delluc Francis 221 Ninth #frontback
+		Jauncey WH 140 Amity #mislabeledbf
+		Coddington Isaac 77 Amity #frontback	
+		Hasse Louis 40 Ave A #frontback
+		Goble Albert 9 Ave C #mislabeledbf
+		Reading Edward 8 Bleecker #frontback
+		Walldorf Henry 317 1/2 Bowery #mislabeledbf
+		Greene Job 11 1/2 Broadway #missingbf
+		Weismann Augustus 257 Broome #mislabeledbf
+		Weismann Augustus 257 Broome #mislabeledbf
+		Minor Charles 15 Carroll Pl #mislabeledbf
+		Pfaehler Louis 21 Centre #frontback
+		Weisman Adolphus 21 Centre #frontback 
+		Deromas Peter 53 Chatham St #mislabeledbf
+		Hoadley Lucian 403 Hudson St #mislabeledbf
+		Patten William 3 Clinton Pl #mislabeledbf
+		Brown Alfred 104 Columbia #frontback 
+		Brown Alfred 104 Columbia #frontback
+		Dixon George 29 Cottage Pl #mislabeledbf
+		Merrick Thomas 150 E 18th St #frontback
+		Lindsay William 77 E Broadway #mislabeledbf
+		Combs Richard 130 Franklin St #mislabeledbf
+		Clay Edmund 88 Franklin #mislabeledbf
+		Goetting Thieloe 411 Grand St #mislabeledbf
+		Hutchings Charles 80 Greene #frontback
+		Henry LJ 84 Greenwich Ave #frontback 
+		Paul Stephen 15 London Terrace #mislabeledbf
+		Kinsley William 142 Macdougal #frontback 
+		Darling Charles 142 macdougal #frontback 
+		Schiefelin James 13 Madison Sq #mislabeledbf
+		Winder Ernst 2 Market #mislabeledbf
+		Coon Walter22 Market #frontback 
+		Anderson Peter 195 Prince #frontback 
+		Dillon Richard 67 Rose #mislabeledbf
+		Phibbs Francis 29 Spring #frontback 
+		Rushton Frederick 18 St Marks Pl #mislabeledbf
+		Molwitz Henry 167 Stanton #mislabeledbf
+		Bond William 21 Suffolk #frontback 
+		Easterbrooks Ray 171 Thompson #frontback 
+		Beadle John 7 Varick #frontback 
+		Gabaudan Artur 13 Washington Pl #frontback 
+		Comstock George Wells 18 W 11th St #frontback #mislabeledbf
+		Minor Israel & Co 133 W 14th St #mislabeledbf
+		Hart John 160 W 14th St #frontback 
+		Hart John 160 W 14th St #frontback 
+		Ingersoll Samuel 162 W 14th St #frontback 
+		Northrop John 195 W 15th St #frontback 
+		Price Harrison 216 W 15th St #frontback 
+		Phillips Charles 26 1/2 w 18th at #missingbf
+		Barkley William 245 W 19th St #frontback 
+		Barkley William 245 19th St #frontback 
+		Hegeman A 231 W 22nd St #frontback 
+		Hegeman 231 W 22nd St #frontback 
+		Morris Charles 298 W 24th St #frontback 
+		Harral James 31 W 25th St #frontback 
+		Mathison Robert 170 W 28th St #mislabeledbf
+		Hendrickson George 38 W 29th St #frontback 
+********************STOPPED AT BULL B ************************************************	
+		
