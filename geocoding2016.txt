@@ -268,6 +268,11 @@ Created 06/15/2016
 		Wheeler George 451 Divison #nosuchaddress
 		Radway Geo 689 Hudson St #missingbasemap
 		Curtis Simeon 132 W 24th St #missingbasemap
+		Hegeman William 9 W 33rd street #missingbasemap
+		Hegeman William 9 W 33rd Street #missingbasemap
+		Wilson Henry 157 W 43rd Street #missingbasemap
+		Chandler George 159 W 43rd Street #missingbasemap
+		Elliot Shadwell 186 W 84th St #missingbasemap
 		
 	-manually matched:
 		Radway John 76 Jane #frontback 
@@ -336,5 +341,9 @@ Created 06/15/2016
 		Harral James 31 W 25th St #frontback 
 		Mathison Robert 170 W 28th St #mislabeledbf
 		Hendrickson George 38 W 29th St #frontback 
+		Freygang Gustave 27 W Broadway #missingbf - tagged at 27th 
+		Coons Augustus 165 Wooster #missingbf
+		Weismann Augustus 257 Broome #missingbf
+		
 ********************STOPPED AT BULL B ************************************************	
 		
